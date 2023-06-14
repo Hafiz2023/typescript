@@ -2,6 +2,8 @@
 
 
 
-let my1name=" Eric, "
+let my1name:string=" Eric, "
 console.log('Hello' +my1name+'would you like to learn some Python today?”');
+
+
 

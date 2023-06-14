@@ -7,5 +7,6 @@
 • Print a second set of invitation messages, one for each person who is still in your list.*/
 
 let changing_LIST=[ "ADIL ", "Hammad", "Imran"]
-//console.log(changing_LIST [1] + "  say , i   not baking cooking in dinner party");
+console.log(changing_LIST [1] + "  say , i   not baking cooking in dinner party");
 console.log(changing_LIST[0] + " 'ab mujhe imran bhai ko invite krna ho ga ky wo mere help kre'");
+

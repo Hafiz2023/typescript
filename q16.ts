@@ -7,7 +7,13 @@
 
 let Guest_lit= ["Hammad" , "Abaid", "Tayyab"]
 
-//console.log(Guest_lit[0]+ " MERE trf se apko dinnar ki dawat ha ");
-//console.log(Guest_lit[1]+ " MERE trf se apko dinnar ki dawat ha ");
-//console.log(Guest_lit[2]+ '" MERE trf se apko dinnar ki dawat ha pls zaror aaye"');
-console.log(Guest_lit[0]+ "yar us ko cooking bilkul nhi ati ab ic me us ki kya galti ha");
+
+Guest_lit.pop();
+console.log(Guest_lit);
+console.log(Guest_lit.splice(2,0,"Yasin", "Ghulam Rasool"));
+console.log(Guest_lit) ;
+console.log(Guest_lit[0]+ " MERE trf se apko dinnar ki dawat ha ");
+console.log(Guest_lit[1]+ " MERE trf se apko dinnar ki dawat ha ");
+console.log(Guest_lit[2]+ " MERE trf se apko dinnar ki dawat ha ");
+console.log(Guest_lit[3]+ " MERE trf se apko dinnar ki dawat ha ");
+console.log(Guest_lit[4]+ '" MERE trf se apko dinnar ki dawat ha pls zaror aaye"');

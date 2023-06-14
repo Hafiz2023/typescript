@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/jquery": "^3.5.16",
+    "await": "^0.2.6",
+    "chalk": "^5.2.0",
+    "init": "^0.1.2",
+    "inquirer": "^9.1.5",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
